@@ -1,0 +1,8 @@
+The program must use a command-line argument (argv and argc) 
+to specify a filename to be loaded. After checking for a valid 
+command-line entry, your program must open the file and read 
+in each word to see how many words there are. Then, using a 
+dynamically allocated array of structures, re-read in each 
+word and store it in the dynamically allocated array of 
+structures. Use rewind to rewind the file. Do NOT close and 
+reopen the file, use rewind instead.
